@@ -7,6 +7,6 @@
 - The example below uses Apple's location, Cupertino.
 
 ### Building and Running:
-1. Open the project in Xcode and hit Cmd + R to build and run. I didn't push some files from the original project, such as the app icons and the `.plist` files, copy/pasting the code and make the necessary directories will probably be better than cloning.
+1. Open the project in Xcode and hit Cmd + R to build and run. I didn't push some files from the original project, such as the app icons and the `.plist` files, so copy/pasting the code and making the necessary directories will probably be better than cloning.
 
 <img src="Example.png" alt="Example of the weather app" style="width:476px; height:893px;"/>
